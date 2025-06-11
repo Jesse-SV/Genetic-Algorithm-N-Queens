@@ -107,10 +107,6 @@ O algoritmo **UCB1** trata a escolha dos operadores de crossover como um problem
 
 ---
 
-## 📜 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
 ---
 
 ## 🤝 Contribuições
