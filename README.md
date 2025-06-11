@@ -106,9 +106,3 @@ O algoritmo **UCB1** trata a escolha dos operadores de crossover como um problem
 - `fitness`, `mutacao`, `selecaoAleatoria`, etc.: funções auxiliares
 
 ---
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Fique à vontade para abrir issues ou pull requests.
